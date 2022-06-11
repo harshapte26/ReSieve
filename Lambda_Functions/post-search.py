@@ -1,5 +1,3 @@
-## LF Post Search
-
 import boto3
 import json
 import requests
